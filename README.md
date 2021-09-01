@@ -134,8 +134,8 @@ Endpoints that return a list of entities must support pagination. Without pagina
 
 ---
 ### High Level Design
-**High Level System Design**
-**High Level Client Design** (Deep dive into one of the flows)
+- **High Level System Design**
+- **High Level Client Design** (Deep dive into one of the flows)
 
 ---
 ### Server Exhaustive Design (CAP, Consistency/Availability/Partition Tolerance)
